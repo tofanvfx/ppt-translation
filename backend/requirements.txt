@@ -4,3 +4,4 @@ python-pptx
 python-docx
 pdf2docx
 deep-translator
+python-multipart
