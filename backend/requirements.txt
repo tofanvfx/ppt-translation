@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-pptx
+python-docx
+pdf2docx
+deep-translator
